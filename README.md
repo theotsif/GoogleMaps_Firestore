@@ -6,7 +6,7 @@
 
 ## General info
 This project deals with the creation of a cities Database in GCP Firebase 
-with data extracted from the Google Maps API and its enrichment it with data 
+with data extracted from the Google Maps API and its enrichment with data 
 from the Sygic API.
 An example is performed for Madrid, Spain.
 
